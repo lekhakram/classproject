@@ -3,5 +3,6 @@ public class test01 {
 
         // creating test case 01
         System.out.println("hello world");
+        System.out.println("ram");
     }
 }
